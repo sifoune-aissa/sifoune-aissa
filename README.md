@@ -24,4 +24,4 @@
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 [![Twitter: SifouneAissa](https://img.shields.io/twitter/follow/SifouneAissa?style=social)](https://twitter.com/SifouneAissa)
-[![GitHub sifouneAissa](https://img.shields.io/github/followers/sifouneAissa?label=follow&style=social)](https://github.com/sifouneAissa)
+[![GitHub sifouneAissa](https://img.shields.io/github/followers/sifoune-aissa?label=follow&style=social)](https://github.com/sifoune-aissa)
